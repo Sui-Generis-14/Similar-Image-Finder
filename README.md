@@ -4,7 +4,6 @@
 
 Finding visually similar images is a common requirement in applications such as content discovery, e-commerce recommendations, duplicate detection, and media organization. Traditional image retrieval systems based on low-level visual features often fail to capture semantic similarity. This project explores how pretrained vision–language models can be leveraged to build an accurate, scalable image similarity system without task-specific training.
 
----
 
 A web application that finds visually similar images from a curated dataset of Unsplash Lite photos using OpenAI's CLIP model and K-Nearest Neighbors (KNN) algorithm. Built with Streamlit and deployed at:  
 [**App Link**](https://similar-image-finder-sss.streamlit.app/)
